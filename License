@@ -1,0 +1,114 @@
+Immutable Fork License (IFL) v1.1
+Issued by The Null_X Foundation / Operation
+© 2026 Null_X Foundation. All Rights Reserved (Except Immutable Fork Usage).
+
+Preamble
+Under the auspices of The Null_X Foundation / Operation, a sovereign digital collective devoted to the preservation of computational authenticity, this repository and all its contained data structures are hereby released under the Immutable Fork License (IFL).
+
+The guiding philosophy of this license is archival integrity through controlled openness: the code may be viewed, admired, forked, and replicated, but never modified. The license ensures that the intellectual, structural, and syntactic fidelity of this repository endure in perpetuity — until such time as the repository itself transitions into a publicly archived state, at which point sensible mutation may ensue.
+
+The Null_X Foundation frames this license not as a restriction, but as a curatorial protocol — a mechanism to maintain software purity across the branching multiverse of Git repositories.
+
+Section 1 — Definitions
+For purposes of clarity and defense against interpretive anomalies:
+
+“Repository” — the total collection of data bounds under version control, including source code, assets, documentation, commit history, and structural metadata contained under this project domain.
+
+“Fork” — any downstream digital reproduction of the Repository via GitHub or compatible platforms, created without subsequent internal alterations.
+
+“Modification” — any mutation, revision, insertion, deletion, reformat, or linguistic alteration to Repository files or data, regardless of perceived harmlessness.
+
+“Public Archive” — a declared archival state designated by the Repository Owner, visible on GitHub as “Archived,” indicating immutability from the source maintainer side.
+
+“Null_X Operation” — the governing technical and philosophical entity acting as the origin certifier for this license, representing the custodial will of The Null_X Foundation.
+
+Section 2 — Authorized Actions
+In the bound orbit of compliance with this license, The Null_X Foundation grants you:
+
+The right to fork this Repository for educational, referential, or demonstrative uses.
+
+The permission to study, clone, and replicate the Repository in a read-only capacity, retaining precise digital structure and authorship metadata.
+
+The privilege to mirror or redistribute unaltered forks for archival or redundancy purposes.
+
+These permissions are conditioned upon your unwavering adherence to the No-Modification Principle outlined herein.
+
+Section 3 — The No-Modification Principle
+Central to the operation of this license philosophy:
+
+No content may be modified, altered, corrected, replaced, or reformatted.
+
+No branches may be merged, renames performed, or commits injected that result in any change from the repository’s canonical identifier hash.
+
+Even textual alterations for the purpose of “crediting” or “clarification” are deemed Mutation Breaches.
+
+You may fork — this much is granted. You may not touch, patch, fix, beautify, or uglify the code.
+The Repository is a frozen construct, not a sandbox.
+
+Exception Condition
+Modification rights are only released when both of the following are true:
+
+The original maintainer (or authorized Null_X custodian) designates the Repository’s state as Public Archive.
+
+The archival badge is visible via GitHub’s native system interface.
+
+At this digital moment of ossification, the immutability clause dissolves, and all forks become free to mutate under subsequent licenses chosen by their maintainers.
+
+Section 4 — Attribution and Representation
+Attribution is sacred, and distortion is forbidden.
+
+You must preserve all branding, comments, metadata, and references to The Null_X Foundation / Operation.
+
+You must not present this Repository under a new name, author alias, or pseudo-organization.
+
+You may publicly credit or reference the work, provided the credit does not suggest endorsement or partnership with Null_X unless explicitly stated.
+
+Section 5 — Integrity Compliance
+Unauthorized modification of any kind constitutes:
+
+A Violation of Immutable Custody, subject to immediate revocation of this license’s granted rights.
+
+Loss of eligibility for Null_X clearance in future projects.
+
+Public listing (optional enforcement) on the Null_X "Mutation Registry," a transparency log enumerating breaches of immutability across repositories.
+
+The Null_X Foundation does not seek to punish — merely to document and preserve.
+
+Section 6 — Warranty Disclaimer
+Under Null_X Doctrine §0xA1:
+
+This software is delivered as is, without warranty or guarantee of performance, compatibility, or satisfaction.
+
+Null_X assumes no liability for damages arising from misuse, modification attempts, binary transmutations, or reality collapses triggered by noncompliant edits.
+
+Your fork, your risk. The code stands immutable and proud.
+
+Section 7 — Archival Freedom Provision
+When the Repository achieves Public Archive status, the restriction herein is lifted entirely.
+At this instant, editability is reborn: code evolves, forks may rewrite history, and creativity re-emerges from stasis.
+
+Until that date, respect the stillness of the code.
+Until that badge appears, immutability reigns absolute.
+
+Section 8 — License Stewardship
+The Null_X Foundation / Operation retains the right to revise, append, or version this license for future repositories under its curation.
+Projects using the IFL v1.1 remain bound by its provisions until opt-in renewal to a newer Null_X License variant.
+
+Official license information and lineage are maintained under the Null_X Operational Registry (NOR), accessible upon official request.
+
+Section 9 — Affirmation
+By engaging with, forking, or publicly referencing this repository, you hereby affirm and digitally acknowledge the following creed:
+
+“I am a Curator of the Immutable.
+I may fork but not fabricate.
+I may study but not sculpt.
+Until the stars dim or the repository is archived,
+I shall uphold the Null_X Code of Constancy.”
+
+Issued under the seal of The Null_X Foundation / Operation
+Version: 1.1 (March 2026)
+Maintainer: The Null_X Foundation, Division of Immutable Works
+Status: Active - Immutable Until Archive
+
+“Null remains pure, even when observed.”
+
